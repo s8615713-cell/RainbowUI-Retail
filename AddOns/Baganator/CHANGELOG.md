@@ -1,7 +1,6 @@
 # Baganator
 
-## [724](https://github.com/Baganator/Baganator/tree/724) (2025-08-06)
-[Full Changelog](https://github.com/Baganator/Baganator/compare/723...724) 
+## [728](https://github.com/Baganator/Baganator/tree/728) (2025-08-13)
+[Full Changelog](https://github.com/Baganator/Baganator/compare/727...728) 
 
-- Retail: Fix "Group by" Upgrade Track not working on current items  
-- ElvUI: Fix quest items having the wrong border color  
+- [Fixes #536] Fix changing shown character not changing bank view  
